@@ -24,9 +24,8 @@ Labs
 ----
 
 TP01 — PRNG and encrypted TCP messaging
+
 TP02 — ...
-TP03 — ...
-TP04 — ...
 
 Each lab contains its own documentation, source code and usage
 instructions.
